@@ -1,7 +1,12 @@
 # ipl-points-table
+
 IPL Points Table Generator 🏏
 
 A simple Python script that builds an IPL-style points table — complete with Net Run Rate (NRR) calculation and Playoffs / Eliminated status — from team match stats.
+
+Note:
+
+I built this project to practice working with Python fundamentals — loops, functions, dictionaries, and string formatting — while solving something I actually enjoy: cricket stats! It takes basic match data (wins, losses, runs) and turns it into a proper IPL-style standings table, complete with Net Run Rate calculations just like the real broadcasts show. Feel free to fork it, tweak the points system, or extend it with more stats.
 
 Features:
 
