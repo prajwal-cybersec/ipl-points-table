@@ -22,7 +22,6 @@ Features:
 
 * Includes a --demo mode with 5 sample IPL teams for a quick preview
 
-
 ScreenShots of Output :
 
 <img width="270" height="180" alt="image" src="https://github.com/user-attachments/assets/c55418fc-e9de-42c5-bdf8-86d143171082" />
