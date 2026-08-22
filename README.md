@@ -15,4 +15,4 @@ Auto-sorts the table by Points, then NRR
 
 Marks the top 4 teams as Playoffs, rest as Eliminated
 
-Includes a --demo mode with 6 sample IPL teams for a quick preview
+Includes a --demo mode with 5 sample IPL teams for a quick preview
